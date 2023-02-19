@@ -1,5 +1,9 @@
 # zenn-contents
 
 # コマンドリスト
-# 画像の貼り付け
-CMD+Option+v
+## コマンドパレットの表示
+Cmd + Shift + P
+## 画像の貼り付け
+Cmd + Option + V
+## 絵文字
+Cmd + Ctrl + Space
