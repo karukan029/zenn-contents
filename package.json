@@ -1,0 +1,25 @@
+{
+  "name": "zenn-contents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate:article": "npx zenn new:article",
+    "preview": "npx zenn preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karukan029/zenn-contents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karukan029/zenn-contents/issues"
+  },
+  "homepage": "https://github.com/karukan029/zenn-contents#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.140"
+  }
+}
